@@ -1,0 +1,6 @@
+RPi.GPIO
+time
+subprocess
+os
+signal
+asyncio
